@@ -18,6 +18,7 @@ http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part
 ### spark cloudera
 http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/
 http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
+https://www.slideshare.net/cloudera/top-5-mistakes-to-avoid-when-writing-apache-spark-applications
 
 ### additional blogs
 https://www.talend.com/blog/2018/04/12/apache-spark-performance-and-tuning-blog/
